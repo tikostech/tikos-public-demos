@@ -1,0 +1,16 @@
+name: Net
+layers:
+  - type: Linear
+    lname: fc1
+    in_features: 4
+    out_features: 50
+  - type: Linear
+    lname: fc2
+    in_features: 50
+    out_features: 50
+  - type: Linear
+    lname: fc3
+    in_features: 50
+    out_features: 3
+  - type: Softmax
+    dim: 1

@@ -1,0 +1,9 @@
+{
+  "nPStart": 0,
+  "nPEnd": 4,
+  "colLbl": 4,
+  "iL": 4,
+  "hL": [500],
+  "oL": 3,
+  "transf": [{"k": "Iris-setosa", "v": 0}, {"k": "Iris-versicolor", "v": 1}, {"k": "Iris-virginica", "v": 2}]
+}

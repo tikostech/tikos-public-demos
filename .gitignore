@@ -1,3 +1,12 @@
+# Editors
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.venv/
+
+# Mac/OSX
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

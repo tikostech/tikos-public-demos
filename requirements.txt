@@ -1,0 +1,15 @@
+tikos
+pandas
+numpy
+matplotlib
+pydantic
+pelote
+scikit-learn
+torch
+seaborn
+statistics
+tabulate
+regex
+ipython
+requests
+tabulate
